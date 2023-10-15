@@ -1,0 +1,11 @@
+{
+  "name": "tokenjs",
+  "version": "1.0.0",
+  "description": "A corpus, a vocabulary word list, and a slight toolset for NLP.",
+  "main": "tokenize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siirxe (siirxel@courvix.com)",
+  "license": "MIT"
+}
